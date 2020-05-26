@@ -24,8 +24,8 @@
               id: 1
             },
            category: 'General',
-           summary: 'summary',
-           description: 'desc'
+           summary: summary,
+           description: desc
        }
   };
 
