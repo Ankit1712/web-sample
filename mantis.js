@@ -19,7 +19,7 @@
   var args = {
         username: user,
         password: password,
-        issue = {
+        issue: {
            project: '1',
            category: 'General',
            summary: 'summary',
