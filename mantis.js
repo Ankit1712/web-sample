@@ -19,13 +19,11 @@
   var args = {
         username: user,
         password: password,
-        issue: {
-           project: {
-              id: 1
-            },
+        issue = {
+           project: '1',
            category: 'General',
-           summary: summary,
-           description: desc
+           summary: 'summary',
+           description: 'desc'
        }
   };
 
