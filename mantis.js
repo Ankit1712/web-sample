@@ -20,7 +20,9 @@
         username: user,
         password: password,
         issue: {
-           project: 1,
+           project: {
+              id: 1
+            },
            category: 'General',
            summary: 'summary',
            description: 'desc'
