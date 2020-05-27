@@ -21,7 +21,7 @@
         password: password,
         issue: {
            project: {
-              name: 'Pipe'
+              id: 20
             },
            category: 'General',
            summary: summary,
