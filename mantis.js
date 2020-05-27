@@ -21,7 +21,7 @@
         password: password,
         issue: {
            project: {
-              id: 0000004
+              name: Jenkins
             },
            category: 'General',
            summary: summary,
