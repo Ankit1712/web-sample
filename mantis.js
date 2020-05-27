@@ -21,7 +21,7 @@
         password: password,
         issue: {
            project: {
-              id: 4
+              id: 0000004
             },
            category: 'General',
            summary: summary,
